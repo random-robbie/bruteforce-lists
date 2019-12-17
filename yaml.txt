@@ -112,3 +112,6 @@
 /wercker.yml
 /wp-cli.local.yml
 /wp-cli.yml
+/cloud-provider.yaml
+/admission_controller_config.yaml
+/pv-recycler-template.yaml
