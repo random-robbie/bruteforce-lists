@@ -1,4 +1,3 @@
-//vendor/phpunit/phpunit/phpunit.xsd
 //vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -14,9 +13,7 @@
 /phpunit/Util/PHP/eval-stdin.php
 /sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-/vendor/phpunit/phpunit/composer.json
 /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-/vendor/phpunit/phpunit/src/Util/PHP/kill.php
 /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 /vendor/phpunit/src/Util/PHP/eval-stdin.php
 /vendor/phpunit/Util/PHP/eval-stdin.php
