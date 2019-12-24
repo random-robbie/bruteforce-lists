@@ -1,4 +1,3 @@
-
 /_phpmyadmin/
 /_phpmyadmin/scripts/setup.php
 /.phpmyadmin/
