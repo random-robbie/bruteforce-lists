@@ -1,0 +1,12 @@
+/cgi.cgi/anacondaclip.pl
+/cgi.cgi/apexec.pl
+/cgi.cgi/cal_make.pl
+/cgi.cgi/cgiforum.pl
+/cgi.cgi/dose.pl
+/cgi.cgi/nph-showlogs.pl
+/cgi.cgi/search.pl
+/cgi.cgi/sendtemp.pl
+/cgi.cgi/story.pl
+/cgi.cgi/story/story.pl
+/cgi.cgi/ustorekeeper.pl
+/cgi.cgi/YaBB.pl
