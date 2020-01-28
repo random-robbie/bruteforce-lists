@@ -19,3 +19,11 @@
 /adminer-4.2.5.php
 /adminer-4.2.5-mysql-en.php
 /adminer-4.1.0-mysql.php
+/latest.php
+/latest-en.php
+/latest-mysql.php
+/latest-mysql-en.php
+/adminer-4.7.5.php
+/adminer-4.7.5-en.php
+/adminer-4.7.5-mysql.php
+/adminer-4.7.5-mysql-en.php
