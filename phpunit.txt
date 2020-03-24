@@ -1,4 +1,3 @@
-
 /_inc/vendor/stripe/stripe-php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /_staff/cron/php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /_staff/php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -467,6 +466,21 @@
 /wp-content/plugins/prh-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/uploads/2018/01/abc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/affinipay-payment-gateway/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/aspose-pdf-importer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/badgeup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/jannes-mannes-social-media-auto-publisher/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/message-business/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/mir-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/product-lister-walmart/marketplaces/walmart/lib/walmart-signature/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/rollbar/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/shortcode-tumblr-gallery/includes/lib/Guzzle/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/turtle-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/user-export-with-their-meta-data/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/waves-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/wp-heyloyalty/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/wp-plugins/wptimetoread/vendor/kdaviesnz/timetoread/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /ws/geral/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
