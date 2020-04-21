@@ -1,0 +1,33 @@
+/Web - Copy (3).config
+/Web - Copy (2).config
+/Web-.config
+/web.config.orig
+/Web C drive.config
+/Web_20200310.config
+/web.config
+/Web.Release.config
+/Web - 20190917.config
+/Web - Copy.config
+/Web_jan.config
+/Web_back.config
+/Web - Sav.config
+/web.config1
+/web.config.local
+/web.config.bak
+/web.config.old
+/machine.config
+/._machine.config
+/Web11.config
+/Web - Copia.config
+/Web 07102017.config
+/Web_windows.config
+/Web.Debug.config
+/Web.config.new
+/Copy of Web.config
+/Web.config.latest.bak
+/Web22.config
+/Web.config.txt
+/._web.config
+/web - 3.5.config
+/Web_Original.config
+/Web D drive.config
