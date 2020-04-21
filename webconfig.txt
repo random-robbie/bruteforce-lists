@@ -5,29 +5,49 @@
 /Web C drive.config
 /Web_20200310.config
 /web.config
-/Web.Release.config
 /Web - 20190917.config
+/web - 3.5.config
+/Web - Copia.config
 /Web - Copy.config
-/Web_jan.config
-/Web_back.config
 /Web - Sav.config
-/web.config1
-/web.config.local
+/Web - копия.config
+/Web - 복사본.config
+/Web - 副本 (2).config
+/Web - 副本 (2)qrg.config
+/Web - 副本 (3).config
+/Web - 副本 (4).config
+/web - 副本.config
+/Web - 复制.config
+/Web 07102017.config
+/Web_back.config
+/Web_jan.config
+/Web_messages.svclog
+/Web_Original.config
+/Web_windows.config
+/Web_单院版.config
+/Web.config - 副本.bak
+/Web.config_1
 /web.config.bak
+/Web.config.bak.bak
+/Web.config.latest.bak
+/web.config.local
+/Web.config.new
 /web.config.old
+/Web.config.oo
+/Web.config.xml
+/web.config1
+/Web.Debug.config
+/Web.Release.config
+/Web.sitemap
+/Web1021.config
+/Web11.config
+/Web11.config.lnk
+/Web1111111.config
+/Web123.txt
+/Web22.config
 /machine.config
 /._machine.config
-/Web11.config
-/Web - Copia.config
-/Web 07102017.config
-/Web_windows.config
-/Web.Debug.config
-/Web.config.new
 /Copy of Web.config
-/Web.config.latest.bak
-/Web22.config
 /Web.config.txt
 /._web.config
-/web - 3.5.config
-/Web_Original.config
 /Web D drive.config
