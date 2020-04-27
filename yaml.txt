@@ -10,22 +10,19 @@
 /.codefresh/codefresh.yml
 /.codeship.yml
 /.coveralls.yml
-/.coveralls.yml
 /.drone.yml
 /.gitlab-ci.yml
 /.keys.yml
 /.keys.yml.swp
 /.lgtm.yml
 /.rubocop.yml
-/.rubocop.yml
-/.scrutinizer.yml
 /.scrutinizer.yml
 /.semaphore/semaphore.yml
-/.travis.yml
 /.travis.yml
 /.travis.yml.swp
 /.travis.yml~
 /.wp-cli/config.yml
+/admission_controller_config.yaml
 /ansible/push_ssh_keys_remote.yml
 /ansible/push_ssh_keys.yml
 /app/config/config_dev.yml
@@ -50,6 +47,7 @@
 /ci/push_ssh_keys.yml
 /ci/solano.yml
 /circle.yml
+/cloud-provider.yaml
 /codefresh.yml
 /codeship-services.yml
 /codeship.yml
@@ -92,6 +90,7 @@
 /pipeline.yml
 /push_ssh_keys_remote.yml
 /push_ssh_keys.yml
+/pv-recycler-template.yaml
 /Resources/config/services.yml
 /ru.yml
 /s3.yml
@@ -112,6 +111,3 @@
 /wercker.yml
 /wp-cli.local.yml
 /wp-cli.yml
-/cloud-provider.yaml
-/admission_controller_config.yaml
-/pv-recycler-template.yaml
