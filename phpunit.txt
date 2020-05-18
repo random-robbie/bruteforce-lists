@@ -15,6 +15,7 @@
 /6p6/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /academy2019/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /acellemail/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php
 /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /ads_qu_merge/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /adv/advDesenvolvimento-1003/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -169,6 +170,7 @@
 /esurat/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /ets/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /eventos-deportivos/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/exapi/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /experts-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /extlib/simplesamlphp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /facturacion/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -267,6 +269,9 @@
 /micampo.perlo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /mmdi/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /modules/autoupgrade/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/modules/gamification/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/modules/ps_facetedsearch/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/modules/pscartabandonmentpro/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /modules/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /moodalmahdi/nbdsye/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /mpbackoffice/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -334,6 +339,7 @@
 /proment/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /protected/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /proyecto_alerta/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/psnlink/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /publichtml/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /pvra/web/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -367,6 +373,7 @@
 /Selfit/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /semcoal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /server/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/shop/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /shopify/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /sic-laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /simasanjesh.ir/public_html/runtime/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -407,6 +414,7 @@
 /subdomains/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /summatest/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /supermind/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/system/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /task_api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /taspenku/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /tbg/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -465,6 +473,7 @@
 /wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/plugins/prh-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/themes/techmatters/mpdf/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/uploads/2018/01/abc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/wp-plugins/affinipay-payment-gateway/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/wp-plugins/aspose-pdf-importer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
