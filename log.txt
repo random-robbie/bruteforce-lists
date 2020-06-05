@@ -1,0 +1,2 @@
+/application/logs/admin.log
+/application/logs/site.log
