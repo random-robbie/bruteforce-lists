@@ -1,0 +1,3 @@
+/WEB-INF/struts-config.xml
+/WEB-INF/config.xml
+/WEB-INF/web.xml
