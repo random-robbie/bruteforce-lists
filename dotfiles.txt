@@ -215,6 +215,7 @@
 /.helm/repository/repositories.yaml
 /.helm/values.conf
 /.helm/values.yaml
+/.hg
 /.hg/
 /.hg/branch
 /.hg/requires
@@ -471,20 +472,15 @@
 /.ssh.php
 /.ssh/
 /.ssh/authorized_keys
-/.ssh/authorized_keys
-/.ssh/config
 /.ssh/config
 /.ssh/google_compute_engine
 /.ssh/google_compute_engine.pub
 /.ssh/id_dsa
 /.ssh/id_dsa.pub
-/.ssh/id_dsa
 /.ssh/id_rsa
 /.ssh/id_rsa.pub
-/.ssh/id_rsa
 /.ssh/identity
 /.ssh/identity.pub
-/.ssh/known_hosts
 /.ssh/known_hosts
 /.stack-work/
 /.stat/
@@ -528,7 +524,6 @@
 /.trashes
 /.travis.yml
 /.travis.yml.swp
-/.travis.yml
 /.travis/
 /.travis/config.yml
 /.tugboat
@@ -606,4 +601,4 @@
 /.zprofile
 /.zsh_history
 /.zshrc
-/sqlite_history
+/.sqlite_history
