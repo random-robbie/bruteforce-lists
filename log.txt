@@ -1,5 +1,3 @@
-/application/logs/admin.log
-/application/logs/site.log
 /0.log
 /1.log
 /000003.log
@@ -11,11 +9,15 @@
 /app.log
 /appDevDebugProjectContainerCompiler.log
 /application.log
+/application/logs/admin.log
+/application/logs/site.log
 /autoscan.log
 /bench.log
 /bogus.log
 /build.log
 /builderror.log
+/cadvisor_-port.log
+/cadvisor_-port.log.1
 /change.log
 /CMakeError.log
 /CMakeOutput.log
@@ -45,6 +47,16 @@
 /geckodriver.log
 /ghostdriver.log
 /gradle.log
+/ilmscli_heartbeat.log
+/ilmscli_heartbeat.log.1
+/ilmscli_mediacheck.log
+/ilmscli_mediacheck.log.1
+/ilmscli_ping.log
+/ilmscli_ping.log.1
+/ilmscli_sync.log
+/ilmscli_sync.log.1
+/ilmservices_.log
+/ilmservices_.log.1
 /info.log
 /install.log
 /jepsen.log
@@ -59,6 +71,8 @@
 /main.log
 /master.log
 /mkmf.log
+/nginx_access.log
+/nginx_access.log.1
 /node_1.log
 /non-object-res.log
 /npm-debug.log
