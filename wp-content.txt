@@ -9,6 +9,7 @@
 /giacc/wp-content/plugins/tablepress/css/default.min.css
 /giacc/wp-content/plugins/wptables/build/css/wptables.min.css
 /giacc/wp-content/themes/Divi/style.css
+/wp-content/plugins/quiz-master-next/readme.txt
 /lotus/wp-content/uploads/2017/02/product-sample.png
 /nwp-content/plugins/disqus-comment-system/disqus.php
 /old/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml
