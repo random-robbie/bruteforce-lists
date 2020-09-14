@@ -1,6 +1,7 @@
 /backup/wp-content/
 /beta/wp-content/themes/AdvanceImage5/functions.php
 /blog/wp-content/backup-db/
+/wp-content/plugins/sfwd-lms/assets/css/style.min-rtl.css
 /blog/wp-content/backups/
 /blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml
 /cms/wp-content/themes/AdvanceImage5/functions.php
