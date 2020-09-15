@@ -4,6 +4,8 @@
 /wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js
 /.wp-config.php.swp
 /backup/wp-content/
+/wp-content/plugins/menu-image/includes/css/menu-image.css
+/wp-content/plugins/ml-slider/assets/metaslider/public.css
 /beta/wp-content/themes/AdvanceImage5/functions.php
 /blog/wp-content/backup-db/
 /blog/wp-content/backups/
