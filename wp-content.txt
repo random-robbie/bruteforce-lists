@@ -2,14 +2,11 @@
 /.wp-config.php.swo
 /.wp-config.php.swp
 /backup/wp-content/
-/wp-content/plugins/rsvpmaker/readme.txt
-/wp-content/plugins/popup-builder/readme.txt
 /beta/wp-content/themes/AdvanceImage5/functions.php
 /blog/wp-content/backup-db/
 /blog/wp-content/backups/
 /blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml
 /cms/wp-content/themes/AdvanceImage5/functions.php
-/wp-content/plugins/instagram-feed/css/A.sb-instagram.min.css
 /contest/wp-content/plugins/wp-postratings/images/squares/
 /giacc/wp-content/plugins/tablepress/css/default.min.css
 /giacc/wp-content/plugins/wptables/build/css/wptables.min.css
@@ -236,6 +233,7 @@
 /wp-content/plugins/accessally/resource/backend/css/accessally-manage.css
 /wp-content/plugins/accessally/resource/frontend/js/accessally-pay-optin.js
 /wp-content/plugins/accesspress-anonymous-post-pro/readme.txt
+/wp-content/plugins/active-directory-integration/readme.txt
 /wp-content/plugins/ad-inserter/js/sponsors.js
 /wp-content/plugins/ad-inserter/readme.txt
 /wp-content/plugins/ad-wizz/template.php
@@ -250,6 +248,7 @@
 /wp-content/plugins/ads/ass.php
 /wp-content/plugins/ads/class.php
 /wp-content/plugins/advanced_file_manager_5/php/connector.minimal.php
+/wp-content/plugins/advanced-custom-fields-pro/readme.txt
 /wp-content/plugins/advanced-dewplayer/admin-panel/download-file.php
 /wp-content/plugins/advanced-text-widget/advancedtext.php
 /wp-content/plugins/advanced-uploader/upload.php
@@ -259,12 +258,14 @@
 /wp-content/plugins/ajax-category-dropdown/includes/dhat-ajax-cat-dropdown-request.php
 /wp-content/plugins/ajax-store-locator-wordpress_0/sl_file_download.php
 /wp-content/plugins/ajax-store-locator-wordpress_0/sl_file_download.php?download_file=../../etc/passwd
+/wp-content/plugins/ajax-thumbnail-rebuild/readme.txt
 /wp-content/plugins/ajaxgallery/utils/list.php
 /wp-content/plugins/akismet/_inc/akismet.js
 /wp-content/plugins/akismet/_inc/form.js
 /wp-content/plugins/akismet/admin.php
 /wp-content/plugins/akismet/akismet.php
 /wp-content/plugins/akismet/legacy.php
+/wp-content/plugins/akismet/readme.txt
 /wp-content/plugins/akismet/widget.php
 /wp-content/plugins/aksimet/aksimet.php
 /wp-content/plugins/alert-before-your-post/trunk/post_alert.php
@@ -284,8 +285,11 @@
 /wp-content/plugins/apikey/sup_wp.php
 /wp-content/plugins/appointment-hour-booking/css/style.css
 /wp-content/plugins/aprils-super-functions-pack/readme.php
+/wp-content/plugins/ari-adminer/readme.txt
 /wp-content/plugins/aspose-doc-exporter/aspose_doc_exporter_download.php
 /wp-content/plugins/asset-manager/upload.php
+/wp-content/plugins/attach-files-widget/readme.txt
+/wp-content/plugins/attachment-importer/readme.txt
 /wp-content/plugins/audio/getid3/demo.browse.php
 /wp-content/plugins/audio/getid3demo.browse.php
 /wp-content/plugins/auto-attachments/thumb.php
@@ -303,6 +307,7 @@
 /wp-content/plugins/batchmove/js/batch.js
 /wp-content/plugins/bbpress/forum.php
 /wp-content/plugins/bbpress/readme.txt
+/wp-content/plugins/better-search-replace/readme.txt
 /wp-content/plugins/bezahlcode-generator/der_generator.php
 /wp-content/plugins/blnmrpb/log.txt
 /wp-content/plugins/blog-designer/js/designer.js
@@ -317,6 +322,9 @@
 /wp-content/plugins/buddypress-media/app/helper/rtUploadAttachment.php
 /wp-content/plugins/buddypress-media/lib/media-element/wp-mediaelement.min.css
 /wp-content/plugins/bulk-comment-remove/w.php
+/wp-content/plugins/bunyad-shortcodes/readme.txt
+/wp-content/plugins/bunyad-siteorigin-panels/readme.txt
+/wp-content/plugins/bunyad-widgets/readme.txt
 /wp-content/plugins/bwp-minify/cache
 /wp-content/plugins/cac-featured-content/timthumb.php
 /wp-content/plugins/caldera-forms/assets/css/cfont.css
@@ -373,6 +381,7 @@
 /wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js
 /wp-content/plugins/contact-form-7/includes/js/media-admin.php
 /wp-content/plugins/contact-form-7/includes/js/scripts.js
+/wp-content/plugins/contact-form-7/readme.txt
 /wp-content/plugins/contact-form-wordpress/easy-form.class.php
 /wp-content/plugins/content-comments.php
 /wp-content/plugins/contus-hd-flv-player/process-sortable.php
@@ -396,6 +405,7 @@
 /wp-content/plugins/css-ready/file.php
 /wp-content/plugins/custom-background/uploadify/uploadify.php
 /wp-content/plugins/custom-content-type-manager/upload_form.php
+/wp-content/plugins/custom-sidebars/readme.txt
 /wp-content/plugins/custom-tables/iframe.php
 /wp-content/plugins/cyclone-slider/js/jquery.cycle.all.min.js
 /wp-content/plugins/cysteme-finder/php/connector.php
@@ -404,6 +414,7 @@
 /wp-content/plugins/default_library_puvox.php
 /wp-content/plugins/delucks-seo/modules/professional/breadcrumbs/assets/css/frontend.css
 /wp-content/plugins/delucks-seo/readme.txt
+/wp-content/plugins/disable-comments-master/readme.txt
 /wp-content/plugins/disclosure-policy-plugin/functions/action.php
 /wp-content/plugins/disqus-comment-system/disqus.php
 /wp-content/plugins/dm-albums/dm-albums.php
@@ -418,6 +429,7 @@
 /wp-content/plugins/drag-drop-file-uploader/dnd-upload.php
 /wp-content/plugins/dukapress/lib/dp_image.php
 /wp-content/plugins/duplicate-page/readme.txt
+/wp-content/plugins/duplicate-post/readme.txt
 /wp-content/plugins/duplicator/assets/css/style.css
 /wp-content/plugins/duplicator/files/installer.cleanup.php
 /wp-content/plugins/duplicator/installer/build/view.step2.php
@@ -451,6 +463,7 @@
 /wp-content/plugins/editormonkey/fckeditor/fckeditor.js
 /wp-content/plugins/elementor-pro/changelog.txt
 /wp-content/plugins/email-newsletter/csv/export.php
+/wp-content/plugins/enhanced-media-library/readme.txt
 /wp-content/plugins/estatik/readme.txt
 /wp-content/plugins/evarisk/include/ajax.php
 /wp-content/plugins/evarisk/include/lib/actionsCorrectives/activite/uploadPhotoApres.php
@@ -474,6 +487,7 @@
 /wp-content/plugins/feedweb/widget_remove.php
 /wp-content/plugins/fgallery/fim_rss.php
 /wp-content/plugins/file-groups/download.php
+/wp-content/plugins/file-manager/readme.txt
 /wp-content/plugins/finder/index.php
 /wp-content/plugins/firestats/php/window-add-excluded-ip.php
 /wp-content/plugins/firestats/php/window-add-excluded-url.php
@@ -547,6 +561,7 @@
 /wp-content/plugins/hd-webplayer/config.php
 /wp-content/plugins/hd-webplayer/playlist.php
 /wp-content/plugins/hello.php
+/wp-content/plugins/hello.php/readme.txt
 /wp-content/plugins/history-collection/download.php
 /wp-content/plugins/hitasoft_player/config.php
 /wp-content/plugins/html5-mp3-player-with-playlist/html5plus/playlist.php
@@ -561,12 +576,15 @@
 /wp-content/plugins/igit-posts-slider-widget/timthumb.php
 /wp-content/plugins/image-clipboard/readme.txt
 /wp-content/plugins/image-gallery-with-slideshow/upload-file.php
+/wp-content/plugins/image-widget/readme.txt
 /wp-content/plugins/inboundio-marketing/admin/partials/csv_uploader.php
 /wp-content/plugins/indeed-membership-pro/assets/css/templates.css
 /wp-content/plugins/index.php
+/wp-content/plugins/index.php/readme.txt
 /wp-content/plugins/infusionsoft/Infusionsoft/utilities/code_generator.php
 /wp-content/plugins/inline-gallery/browser/browser.php
 /wp-content/plugins/insert-php/admin/assets/js/tag-it.js
+/wp-content/plugins/instagram-feed/css/A.sb-instagram.min.css
 /wp-content/plugins/instasqueeze/lp/index.php
 /wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/js/react-dom.min.js
 /wp-content/plugins/invit0r/lib/php-ofc-library/ofc_upload_image.php
@@ -645,14 +663,17 @@
 /wp-content/plugins/mailz/lists/dl.php
 /wp-content/plugins/mashsharer/assets/css/mashsb.min.css
 /wp-content/plugins/media-admin.php
+/wp-content/plugins/media-cleaner/readme.txt
 /wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php
 /wp-content/plugins/media-library-categories/sort.php
 /wp-content/plugins/meenews/newsletter.php
 /wp-content/plugins/membership-simplified-for-oap-members-only/download.php
 /wp-content/plugins/menu-image/includes/css/menu-image.css
+/wp-content/plugins/menu-image/readme.txt
 /wp-content/plugins/mingle-forum/feed.php
 /wp-content/plugins/mingle-forum/wpf-insert.php
 /wp-content/plugins/mini-mail-dashboard-widgetwp-mini-mail.php
+/wp-content/plugins/miniorange-saml-20-single-sign-on/readme.txt
 /wp-content/plugins/mkdf-core/shortcodes/countdown/assets/js/plugins/jquery.countdown.min.js
 /wp-content/plugins/mkdf-core/shortcodes/counter/assets/js/plugins/absoluteCounter.min.js
 /wp-content/plugins/mkdf-core/shortcodes/counter/assets/js/plugins/counter.js
@@ -703,6 +724,7 @@
 /wp-content/plugins/paid-downloads/download.php
 /wp-content/plugins/pay-with-tweet.php/pay.php
 /wp-content/plugins/paypal-currency-converter-basic-for-woocommerce/proxy.php
+/wp-content/plugins/pdf-print/readme.txt
 /wp-content/plugins/photo-gallery/filemanager/UploadHandler.php
 /wp-content/plugins/photoracer/changefrom.php
 /wp-content/plugins/photoracer/changeto.php
@@ -726,6 +748,7 @@
 /wp-content/plugins/plugin-newsletter/preview.php
 /wp-content/plugins/plugin-newsletter/preview.php?data=../../../../../../../../etc/passwd
 /wp-content/plugins/plugins/GreenGo.php
+/wp-content/plugins/popup-builder/readme.txt
 /wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
 /wp-content/plugins/post-highlights/ajax/ph_settings.php
 /wp-content/plugins/post-recommendations-for-wordpress/lib/api.php
@@ -777,6 +800,7 @@
 /wp-content/plugins/recipe/wordspew-rss.php
 /wp-content/plugins/recommend-a-friend/inc/raf_form.php
 /wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php
+/wp-content/plugins/regenerate-thumbnails/readme.txt
 /wp-content/plugins/rekt-slideshow/picsize.php
 /wp-content/plugins/relocate-upload/relocate-upload.php
 /wp-content/plugins/rent-a-car/libs/timthumb.php
@@ -786,6 +810,7 @@
 /wp-content/plugins/revslider/public/assets/css/settings.css
 /wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
 /wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+/wp-content/plugins/revslider/readme.txt
 /wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js
 /wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js
 /wp-content/plugins/revslider/settings/generas_settings.php
@@ -797,9 +822,12 @@
 /wp-content/plugins/ripe-hd-player/installer.php
 /wp-content/plugins/robotcpa/f.php
 /wp-content/plugins/rss-feed-reader/magpie/scripts/magpie_slashbox.php
+/wp-content/plugins/rss-post-importer/readme.txt
+/wp-content/plugins/rsvpmaker/readme.txt
 /wp-content/plugins/s3-video/views/video-management/preview-video.php
 /wp-content/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/assets/plugins/ultimate/content/downloader.php
 /wp-content/plugins/sam-pro-free/sam-pro-ajax-admin.php
+/wp-content/plugins/saml-20-single-sign-on-master/readme.txt
 /wp-content/plugins/scormcloud/ajax.php
 /wp-content/plugins/se-html5-album-audio-player/download_audio.php
 /wp-content/plugins/search-autocomplete/includes/tags.php
@@ -809,6 +837,7 @@
 /wp-content/plugins/securimage-wp/siwp_test.php
 /wp-content/plugins/securimage-wp/siwp_test.php/
 /wp-content/plugins/sell-downloads/sell-downloads.php
+/wp-content/plugins/sendgrid-email-delivery-simplified/readme.txt
 /wp-content/plugins/sendit/submit.php
 /wp-content/plugins/seo-automatic-seo-tools/feedcommander/get_download.php
 /wp-content/plugins/seo-by-rank-math/readme.txt
@@ -833,6 +862,7 @@
 /wp-content/plugins/simple-ads-manager/sam-ajax-admin.php
 /wp-content/plugins/simple-ads-manager/sam-ajax-loader.php
 /wp-content/plugins/simple-ads-manager/sam-ajax.php
+/wp-content/plugins/simple-backup/readme.txt
 /wp-content/plugins/simple-download-button-shortcode/simple-download-button_dl.php
 /wp-content/plugins/simple-fields/js/chosen/chosen.css
 /wp-content/plugins/simple-fields/simple_fields.php
@@ -902,6 +932,7 @@
 /wp-content/plugins/super-socialat/super_socialat.php
 /wp-content/plugins/super-socialat/super_socialat.php?d1=IHN5c3RlbSgiZWNobyBoZWxsbyB8IG1kNSIpOw==
 /wp-content/plugins/supportcandy/readme.txt
+/wp-content/plugins/swift-mailer/readme.txt
 /wp-content/plugins/table-maker/css/style.css
 /wp-content/plugins/table-of-contents-plus/front.min.js
 /wp-content/plugins/table-of-contents-plus/screen.min.css
@@ -974,6 +1005,7 @@
 /wp-content/plugins/ungallery/source_vuln.php
 /wp-content/plugins/ungallery/source_vuln.php?pic=/../../../../../../../../../../../../../../../../etc/passwd
 /wp-content/plugins/unicode/w.php
+/wp-content/plugins/updraftplus/readme.txt
 /wp-content/plugins/uploader/uploadify/uploadify.php
 /wp-content/plugins/uploader/views/notify.php
 /wp-content/plugins/uploadify/includes/check.php
@@ -1001,6 +1033,7 @@
 /wp-content/plugins/vodpod-video-gallery/vodpod_gallery_thumbs.php
 /wp-content/plugins/vwclean/bump.php
 /wp-content/plugins/vwcleanerplugin/bump.php
+/wp-content/plugins/w3-total-cache/readme.txt
 /wp-content/plugins/webplayer/config.php
 /wp-content/plugins/website-contact-form-with-file-upload/lib/wide-image/image-processor.php
 /wp-content/plugins/wechat-broadcast/wechat/Image.php?url=../../../../../../../../../../etc/passwd
@@ -1038,6 +1071,7 @@
 /wp-content/plugins/wordfence/lib/wordfenceClass.php
 /wp-content/plugins/wordpress-database-reset/assets/css/bsmselect.css
 /wp-content/plugins/wordpress-donation-plugin-with-goals-and-paypal-ipn-by-nonprofitcmsorg/exporttocsv.php
+/wp-content/plugins/wordpress-importer/readme.txt
 /wp-content/plugins/wordpress-member-private-conversation/doupload.php
 /wp-content/plugins/wordpress-navigation-list-plugin-navt/app/navtajx.php
 /wp-content/plugins/wordpress-processing-embed/data/popup.php
@@ -1163,6 +1197,7 @@
 /wp-content/plugins/wp-responsive-thumbnail-slider/readme.txt
 /wp-content/plugins/wp-restful/html_api_authorize.php
 /wp-content/plugins/wp-restful/html_api_login.php
+/wp-content/plugins/wp-retina-2x/readme.txt
 /wp-content/plugins/wp-review/public/js/js.cookie.min.js
 /wp-content/plugins/wp-rocket/vendor/matthiasmullie/minify/Dockerfile
 /wp-content/plugins/wp-safe-search/wp-safe-search-jx.php
