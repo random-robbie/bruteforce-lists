@@ -6,6 +6,7 @@
 /beta/wp-content/themes/AdvanceImage5/functions.php
 /blog/wp-content/backup-db/
 /blog/wp-content/backups/
+/wp-content/plugins/mashsharer/assets/css/mashsb.min.css
 /blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml
 /cms/wp-content/themes/AdvanceImage5/functions.php
 /contest/wp-content/plugins/wp-postratings/images/squares/
