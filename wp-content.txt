@@ -2,6 +2,7 @@
 /.wp-config.php.swo
 /.wp-config.php.swp
 /backup/wp-content/
+/wp-content/plugins/rsvpmaker/readme.txt
 /wp-content/plugins/popup-builder/readme.txt
 /beta/wp-content/themes/AdvanceImage5/functions.php
 /blog/wp-content/backup-db/
