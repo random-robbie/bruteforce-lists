@@ -7,6 +7,7 @@
 /wp-content/plugins/menu-image/includes/css/menu-image.css
 /wp-content/plugins/ml-slider/assets/metaslider/public.css
 /beta/wp-content/themes/AdvanceImage5/functions.php
+/wp-content/plugins/woopra/readme.txt
 /blog/wp-content/backup-db/
 /blog/wp-content/backups/
 /wp-content/plugins/mashsharer/assets/css/mashsb.min.css
