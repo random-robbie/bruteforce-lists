@@ -1,6 +1,7 @@
 /_wpeprivate/
 /.wp-config.php.swo
 /wp-content/uploads/wp_dndcf7_uploads/
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js
 /.wp-config.php.swp
 /backup/wp-content/
 /beta/wp-content/themes/AdvanceImage5/functions.php
