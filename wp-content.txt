@@ -6,6 +6,7 @@
 /backup/wp-content/
 /wp-content/plugins/menu-image/includes/css/menu-image.css
 /wp-content/plugins/ml-slider/assets/metaslider/public.css
+/wp-content/plugins/simple-file-list/ee-upload-engine.php
 /beta/wp-content/themes/AdvanceImage5/functions.php
 /wp-content/plugins/woopra/readme.txt
 /blog/wp-content/backup-db/
