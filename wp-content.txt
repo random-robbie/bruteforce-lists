@@ -8,6 +8,7 @@
 /wp-content/plugins/ml-slider/assets/metaslider/public.css
 /wp-content/plugins/simple-file-list/ee-upload-engine.php
 /beta/wp-content/themes/AdvanceImage5/functions.php
+/wp-content/plugins/trx_addons/components/themes_market/_themes_market.scss
 /wp-content/plugins/woopra/readme.txt
 /blog/wp-content/backup-db/
 /blog/wp-content/backups/
