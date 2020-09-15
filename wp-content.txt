@@ -1591,12 +1591,14 @@
 /wp-content/themes/wprentals-child/fonts/ProximaNova-Semibold.woff
 /wp-content/themes/wprentals/css/fontawesome/css/font-awesome.min.css
 /wp-content/themes/wprentals/style.css
+/wp-content/plugins/site-import/admin/page.php?url=http://rfi.nessus.org/rfi.txt
 /wp-content/themes/xtra/js/custom.js
 /wp-content/themes/xtra/style.css
 /wp-content/themes/yakimabait/download.php
 /wp-content/themes/zenwater/wp-db.php
 /wp-content/themes/zerif-lite/css/bootstrap.css
 /wp-content/themes/zerif-lite/css/owl.theme.css
+/wp-content/plugins/export-users/trunk/readme.txt
 /wp-content/themes/zerif-lite/css/responsive.css
 /wp-content/themes/zerif-lite/js/jquery.knob.js
 /wp-content/themes/zerif-lite/js/jquery.scrollTo.min.js
