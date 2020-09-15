@@ -1,5 +1,6 @@
 /_wpeprivate/
 /.wp-config.php.swo
+/wp-content/uploads/wp_dndcf7_uploads/
 /.wp-config.php.swp
 /backup/wp-content/
 /beta/wp-content/themes/AdvanceImage5/functions.php
