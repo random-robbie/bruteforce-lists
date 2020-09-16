@@ -7,6 +7,7 @@
 /blog/wp-content/backups/
 /blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml
 /cms/wp-content/themes/AdvanceImage5/functions.php
+/wp-content/plugins/wp-file-manager/lib/files/hardfork.php
 /contest/wp-content/plugins/wp-postratings/images/squares/
 /giacc/wp-content/plugins/tablepress/css/default.min.css
 /giacc/wp-content/plugins/wptables/build/css/wptables.min.css
