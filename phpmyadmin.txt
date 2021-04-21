@@ -140,7 +140,7 @@
 /phpMyAdmin._2/
 /phpmyadmin.box25/
 /phpMyAdmin.old/
-/phpmyadmin/
+/phpmyadmin/setup
 /phpmyadmin/ 
 /phpMyAdmin/%0D
 /phpmyadmin/admin/
