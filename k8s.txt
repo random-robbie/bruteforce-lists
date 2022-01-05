@@ -7,13 +7,14 @@ apiserver.pem
 10-flannel.conf
 config.source
 audit.log
-/etc/grafana/grafana.ini
+data/configdb/mongod.conf
+etc/grafana/grafana.ini
 config.hash
 apiserver-key.pem
 cni-conf.json
 kube-proxy.log
 apiserver-aggregator-ca.cert
-/etc/grafana/provisioning/datasources/datasources.yaml
+etc/grafana/provisioning/datasources/datasources.yaml
 apiserver-aggregator.cert
 server.cert
 ca.key
