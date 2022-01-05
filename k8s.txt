@@ -8,6 +8,7 @@ apiserver.pem
 config.source
 audit.log
 data/configdb/mongod.conf
+/var/run/secrets/eks.amazonaws.com/serviceaccount/token
 etc/grafana/grafana.ini
 config.hash
 apiserver-key.pem
