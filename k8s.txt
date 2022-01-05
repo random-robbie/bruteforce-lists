@@ -12,6 +12,7 @@ apiserver-key.pem
 cni-conf.json
 kube-proxy.log
 apiserver-aggregator-ca.cert
+/etc/grafana/provisioning/datasources/datasources.yaml
 apiserver-aggregator.cert
 server.cert
 ca.key
