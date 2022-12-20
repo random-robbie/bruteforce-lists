@@ -194,6 +194,7 @@
 /ecc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /elections/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /elso1000nap-foto/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/emulsao/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /emediamarket-be/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /empresasbrasil/production/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /emr/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
