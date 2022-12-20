@@ -311,6 +311,7 @@
 /mantis/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 /mantisbt/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /mantisbt/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+/marketing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /market_place/mpbackoffice/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /market_place/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /Matrimony/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
