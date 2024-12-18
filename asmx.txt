@@ -37,6 +37,7 @@ Accounts.asmx.cs
 AccountService.asmx
 AccountService.asmx.cs
 ActionService.asmx
+adminServices.asmx
 ActivityService.asmx
 ActivityService.asmx.cs
 AddressBookService.asmx
@@ -1339,6 +1340,7 @@ ReportWriter.asmx.cs
 Repository.asmx
 request-0.json
 request-1.json
+ReserveTicketService.asmx
 ResourceService.asmx
 ResourceService.asmx.cs
 ResourceStandardsService.asmx
@@ -1904,6 +1906,8 @@ Weather.asmx.cs
 Weather.asmx.wsdl
 weatherservice.asmx.wsdl
 weatherservice.asmxWrapper.wsdl
+WebShopPhoneSlider.asmx
+WebshopOrderService.asmx
 WebAccessService.asmx
 WebAccessService.asmx.cs
 WebAccessService1.asmx
