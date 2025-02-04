@@ -16,3 +16,13 @@ ca1-key.pem
 key-certbot.pem
 key2048.pem
 private.pem
+rsa_login_product_public_key.pem
+rsa_login_public_key.pem
+rsa_private_key.pem
+rsa_private_key_dev.pem
+rsa_private_key_pre.pem
+rsa_private_key_test.pem
+rsa_public_key.pem
+rsa_public_key_dev.pem
+rsa_public_key_pre.pem
+rsa_public_key_test.pem
