@@ -324,6 +324,7 @@ fb.cfm
 feature-refresh.cfm
 featured-properties.cfm
 feed-show.cfm
+feedbackform.cfm
 fetchplaynowlinks.cfm
 file_download.cfm
 fillme.cfm
@@ -345,6 +346,7 @@ footer_js.cfm
 footer.cfm
 footerlogo.cfm
 footermodulesinit.cfm
+forgotpassword.cfm
 form.cfm
 formtag-form.cfm
 formular_vao.cfm
@@ -758,6 +760,7 @@ personalhomepage.cfm
 personalsavedsearches.cfm
 pg_opensearch.cfm
 photo.cfm
+placead.cfm
 plaikas.cfm
 playlist.json.cfm
 please_register.cfm
@@ -769,6 +772,8 @@ popup-modal.cfm
 popupmodal.cfm
 portal.cfm
 principal.cfm
+printmap.cfm
+privacy.cfm
 product-search-form.cfm
 productproperties.cfm
 profile.cfm
@@ -971,6 +976,7 @@ vendor_logos.cfm
 verify.cfm
 videos_maincat.cfm
 view.cfm
+viewads.cfm
 viewheadlinehottopics.cfm
 virginiabeach.cfm
 virtual-booth_v2.21.cfm
