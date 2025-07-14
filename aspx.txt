@@ -6,6 +6,7 @@ __include_present_menu_cate2_pc.aspx
 __include_recommended_menu.aspx
 __include_shop_stock_notice.aspx
 __login.aspx
+toolpane.aspx
 __utm.js.aspx
 _404.aspx
 _ajax_carrinho_topo.aspx
