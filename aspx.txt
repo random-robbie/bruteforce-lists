@@ -6,7 +6,6 @@ __include_present_menu_cate2_pc.aspx
 __include_recommended_menu.aspx
 __include_shop_stock_notice.aspx
 __login.aspx
-toolpane.aspx
 __utm.js.aspx
 _404.aspx
 _ajax_carrinho_topo.aspx
@@ -4188,6 +4187,7 @@ cookieinfo.aspx
 cookiekiller.aspx
 cookiemessage.aspx
 cookieoptinlevelconfig.aspx
+CookiePolicy.aspx
 cookiepopupnlajax.aspx
 cookiepreferences.aspx
 cookies.aspx
@@ -15531,6 +15531,7 @@ provinces.aspx
 proximamente.aspx
 proxy.aspx
 proxyrequest.aspx
+proxyService.aspx
 proyectos.aspx
 proyma.aspx
 prplogin.aspx
@@ -18969,6 +18970,7 @@ tongji.aspx
 tool_sprite.aspx
 toolbar.aspx
 toolbarapi.aspx
+toolpane.aspx
 tools-resources_aside_thumb.jpg.aspx
 tools.aspx
 tooltip.js.aspx
