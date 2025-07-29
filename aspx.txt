@@ -10,6 +10,7 @@ __utm.js.aspx
 _404.aspx
 _ajax_carrinho_topo.aspx
 _ann.aspx
+mgr_home.aspx
 _banner.aspx
 _bannerslot.aspx
 _calendar.aspx
