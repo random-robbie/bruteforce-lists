@@ -1386,6 +1386,7 @@ facilityCheck_HMID.php
 fantversion.php
 faq.php
 faqs.php
+favicon.php
 faxcron.php
 fb-callback.php
 fd81m8py.php
@@ -8826,6 +8827,7 @@ ID.php
 idc_update.php
 ide41fy2.php
 idedecrypt.php
+identification.php
 ie8css.php
 ifidenteficator.php
 ifood_test.php
@@ -9006,6 +9008,7 @@ initialize.php
 inout.php
 input.php
 ins.php
+inscription.php
 insert_editor.php
 insert_fa.php
 insert-user-demand.php
@@ -9551,6 +9554,7 @@ new1.php
 new11Jan2011.php
 newexport.php
 NEWindex.php
+newpass.php
 newregister.php
 news_articlepage.php
 news_future.php
@@ -10081,6 +10085,7 @@ recount.php
 recover.php
 recover3.php
 recover4.php
+recupPass.php
 recurring.php
 redir.php
 redirect.php
@@ -10105,6 +10110,7 @@ registr.php
 registration_test.php
 registration.php
 registro.php
+reglement.php
 reject_user.php
 relay_clear_log.php
 relay_config_new.php
@@ -10582,6 +10588,7 @@ subscription_rebilled.php
 subversion.php
 success_stories.php
 sucursales.php
+suivi.php
 sum_orders.php
 sumary.php
 surefiCallRedirect.php
