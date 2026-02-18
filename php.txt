@@ -666,6 +666,8 @@ ckeditor.php
 clashed.php
 class.gradient.php
 class.phpmailer.php
+class.phpmaileroauth.php
+class.phpmaileroauthgoogle.php
 class.pop3.php
 class.smtp.php
 class.unifi.php
@@ -1227,6 +1229,7 @@ dysonsimport.php
 e936m4ww.php
 ean.php
 earliest.php
+EasyPeasyICS.php
 echo.php
 echohttprequestheader.php
 ecm_cron.php
@@ -9582,6 +9585,7 @@ notify2.php
 notify3.php
 novp.php
 nr3yicaa.php
+ntlm_sasl_client.php
 ntunnel_mysql.php
 nuevousuario.php
 numbertest.php
