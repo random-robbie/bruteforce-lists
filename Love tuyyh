@@ -1,0 +1,39 @@
+---
+name: Bug report
+about: Report a problem with the Salesforce Code Review Agent
+title: "[Bug]: "
+labels: bug
+assignees: ""
+---
+
+## What happened?
+
+Describe the problem you encountered.
+
+## Steps to reproduce
+
+1. 
+2. 
+3. 
+
+## Expected behavior
+
+What did you expect to happen?
+
+## Actual behavior
+
+What happened instead?
+
+## Environment
+
+- Salesforce Code Review Agent version/commit:
+- Operating system:
+- Python/Node version (if relevant):
+- Other relevant details:
+
+## Logs or screenshots
+
+Please remove any secrets, credentials, tokens, or private Salesforce data before posting.
+
+```text
+Paste relevant logs here.
